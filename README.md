@@ -1,4 +1,4 @@
-# Исходний код для [урока](http://php720.com/lesson/45)
+# Исходный код для [урока](http://php720.com/lesson/45)
 
 Ссылка на урок - http://php720.com/lesson/45
 
